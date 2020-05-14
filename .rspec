@@ -1,1 +1,4 @@
 --require spec_helper
+--pattern spec/**/xr*.rb
+--fail-fast 1
+--format documentation

@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Editor backup files
+*~
+
+# Ruby artifacts
+.bundle
+.irb_history
+Gemfile.lock
+
+# OpenXR loader symlinks
+libopenxr_loader.dylib
+libopenxr_loader.so

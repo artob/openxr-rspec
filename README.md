@@ -13,7 +13,9 @@ reality (AR) hardware.
 The test suite is implemented using OpenXR bindings for the popular Ruby
 scripting language with requirements specified using the highly readable
 [RSpec](https://rspec.info) domain-specific language for behavior-driven
-development.
+development. The test report looks like this:
+
+![Screenshot of xrCreateInstance specs](etc/readme/xrCreateInstance.png)
 
 Status
 ------

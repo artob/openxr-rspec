@@ -7,4 +7,4 @@ gem 'rspec', '~> 3.9'
 gem 'ffi', '~> 1.12', '>= 1.12.2'
 
 # https://rubygems.org/gems/openxr
-gem 'openxr', '~> 0.3.0'
+gem 'openxr', '~> 0.4.0'

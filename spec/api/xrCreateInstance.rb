@@ -4,6 +4,7 @@ require 'openxr'
 
 include OpenXR::API
 
+# See: https://www.khronos.org/registry/OpenXR/specs/1.0/html/xrspec.html#xrCreateInstance
 RSpec.describe "xrCreateInstance" do
   before(:each) do
     @request = XrInstanceCreateInfo.new

@@ -25,6 +25,7 @@ There are currently tests for the following OpenXR 1.0 API functions:
 | Function                                 | Notes                             |
 | :--------------------------------------- | :-------------------------------- |
 | `xrCreateInstance`                       | Partially implemented.            |
+| `xrDestroyInstance`                      | Fully implemented.                |
 
 Prerequisites
 -------------
